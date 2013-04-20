@@ -1,0 +1,6 @@
+C:\Users\localuser\Documents\GitHub\Dice\Dice\bin\BasicChat.dll
+C:\Users\localuser\Documents\GitHub\Dice\Dice\bin\BasicChat.pdb
+C:\Users\localuser\Documents\GitHub\Dice\Dice\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\localuser\Documents\GitHub\Dice\Dice\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\localuser\Documents\GitHub\Dice\Dice\obj\Release\BasicChat.dll
+C:\Users\localuser\Documents\GitHub\Dice\Dice\obj\Release\BasicChat.pdb
